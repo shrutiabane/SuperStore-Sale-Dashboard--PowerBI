@@ -1,40 +1,79 @@
-# Sale-Dashboard
-1. Project Title / Headline
-Super Store Sales Dashboard using Power BI
-An interactive Power BI dashboard created to analyze supermarket sales data, visualize business performance, and generate sales forecasting insights.
+🚀 Super Store Sales Dashboard using Power BI
 
-2. Short Description / Purpose
-This project was developed as a beginner-friendly data analytics project to understand how businesses use dashboards for sales analysis and decision-making. The dashboard helps in tracking sales performance, customer trends, and future sales predictions using visualization techniques.
+An end-to-end data analytics project focused on analyzing supermarket sales data, uncovering business insights, and building an interactive dashboard to support data-driven decision-making.
 
-3. Tech Stack
-The dashboard was built using the following tools and technologies:
-📊 Power BI Desktop – Used for creating interactive dashboards and reports
-📂 Power Query – Used for data cleaning and transformation
-🧮 DAX (Data Analysis Expressions) – Used for calculated measures and KPIs
-🔗 Data Modeling – Used to create relationships between tables
-📁 File Format – .pbix for Power BI project file and .png for dashboard screenshots
+📌 Project Overview
 
-4. Data Source
-The dataset contains supermarket sales data including sales, profit, quantity, category, customer segment, and order dates.
-The data was used to perform:
-Sales analysis
-Profit tracking
-Customer and regional analysis
-Sales forecasting using historical trends
+This project demonstrates how raw sales data can be transformed into meaningful insights using Power BI.
+The dashboard enables business stakeholders to track performance, identify trends, and make strategic decisions based on data.
 
-5. Features / Highlights
-• Dashboard Creation
-Designed an interactive and user-friendly Power BI dashboard with charts, KPIs, filters, and slicers for better data exploration.
-• Data Analysis
-Analyzed sales and profit trends across different categories, regions, and customer segments using visual reports.
-• Sales Forecasting
-Used historical sales data and time series forecasting to predict future sales trends.
+🎯 Problem Statement
 
-6. Screenshots
-Show what the dashboard looks like.
-Example : https://github.com/shrutiabane/Sale-Dashboard/blob/main/PowerBI-Sale-Dashboard.png
+•	Businesses often struggle to:
+•	Track overall sales and profit performance
+•	Identify high-performing and low-performing regions
+•	Understand customer behavior and sales trends
+This project solves these challenges by providing a centralized, interactive dashboard.
 
+📊 Dataset Information
 
-• Actionable Insights
+•	Dataset includes 10,000+ retail sales records
+Features:
+•	Sales, Profit, Quantity
+•	Product Category & Sub-category
+•	Customer Segment
+•	Order Date & Region
 
-Generated business insights that can help improve sales performance and support better decision-making.
+🛠️ Tech Stack
+
+•	📊 Power BI Desktop – Dashboard development
+•	📂 Power Query – Data cleaning & transformation
+•	🧮 DAX – KPIs and calculated measures
+•	🔗 Data Modeling – Table relationships
+•	📁 File Formats – .pbix, .png
+
+✨ Key Features
+
+•	📈 Interactive dashboard with filters and slicers
+•	📊 KPI tracking (Revenue, Profit, Quantity)
+•	🌍 Regional and category-wise performance analysis
+•	📅 Time-based trend analysis
+•	🔮 Sales forecasting using historical data
+
+📈 Key Insights
+
+•	Identified top-performing categories contributing significantly to total revenue
+•	Discovered regions with high sales but low profit margins
+•	Observed seasonal sales trends with peak performance during specific months
+•	Customer segment analysis revealed major contribution from specific segments
+
+Business Impact
+
+•	Helps businesses focus on high-profit categories to increase revenue
+•	Enables identification of loss-making regions for strategy improvement
+•	Supports data-driven decision-making using real-time insights
+•	Improves overall business visibility through centralized dashboard
+
+🖼️ Dashboard Preview
+
+![Sales Dashboard] (https://github.com/shrutiabane/Sale-Dashboard/raw/main/PowerBI-Sale-Dashboard.png)
+Interactive dashboard showing KPIs, sales trends, regional performance, and category-wise insights.
+
+🔗 Project Link
+
+👉 GitHub Repository:
+https://github.com/shrutiabane/SuperStore-Sale-Dashboard--PowerBI
+
+🚀 What I Learned
+
+•	End-to-end data analysis workflow
+•	Data cleaning and transformation using Power Query
+•	Creating KPIs using DAX
+•	Designing interactive dashboards for business users
+•	Extracting actionable insights from data
+
+📬 Contact
+
+•	LinkedIn: https://www.linkedin.com/in/shruti-abane-9ab73a284
+•	Email: shrutiabane@gmail.com
+
